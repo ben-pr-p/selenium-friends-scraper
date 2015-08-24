@@ -1,4 +1,4 @@
-# Selenium Facebook Scraper
+# Selenium-Friends-Scraper
 
 Facebook disabled its "friends of friends" feature on April 30th of this year. This implements a slow web crawler that gets it manually.
 
