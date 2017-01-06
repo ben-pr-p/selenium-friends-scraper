@@ -1,6 +1,6 @@
 # selenium-friends-scraper
 
-Selenium-Friends-Scraper implements a web crawler that crawls your friends of friends network.
+If you're somebody trying to get their friends of friends to play with it in Gephi, this is for you. It still works, but it's pretty slow and the Selenium config is a bit odd, and I don't have time to make it work right at this moment.
 
 ### Usage
 The current version is written using Selenium's Firefox web driver, which means you need Firefox installed. 
@@ -24,7 +24,3 @@ $ cd selenium-friends-scraper
 $ pip install selenium
 $ python main.py
 ```
-
-### Development
-
-Want to contribute? Email ben.paul.ryan.packer@gmail.com.
